@@ -6,7 +6,7 @@ i found a holes in knowledge in html and JS.
 ### 33 lessons to reastablish html css and js basics
 
 - resume
-- site bdio
-- littlebit of Java
+- cat site
+- littlebit of CSS
 
 ### path to lessons https://vladilen.ru

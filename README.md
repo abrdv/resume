@@ -9,4 +9,3 @@ i found a holes in knowledge in html and JS.
 - cat site
 - littlebit of CSS
 
-### path to lessons https://vladilen.ru
